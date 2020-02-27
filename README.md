@@ -104,7 +104,11 @@ If you're planning a new feature, please file an issue to discuss first.
 Check the [issue tracker] for `help wanted` issues if you're unsure where to
 start, or feel free to reach out to discuss. 🙂
 
+zoom session hosted every other Monday at 11am PT [meeting link].
+Agenda: [meeting agenda].
+
 See also: our own [contributor guide] and the Kubernetes [community page].
+
 
 ## Why kind?
 
@@ -147,3 +151,5 @@ Participation in the Kubernetes community is governed by the [Kubernetes Code of
 [@munnerz]: https://github.com/munnerz
 [contributor guide]: https://kind.sigs.k8s.io/docs/contributing/getting-started
 [releases]: https://github.com/kubernetes-sigs/kind/releases
+[meeting link]: https://zoom.us/j/960461819 
+[meeting agenda]: https://docs.google.com/document/d/1b9Ppm7ZT_tMWRs5Ph1zGJJKb5nF9c3ZHzMwg1olJIrc/edit
